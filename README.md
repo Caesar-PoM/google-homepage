@@ -1,0 +1,1 @@
+This project is about learning how to develop a website with HTML by cloning a homepage of google
